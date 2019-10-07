@@ -50,8 +50,8 @@ namespace MongoExample.Repository.Base
 
         public virtual void Delete(string id)
         {
-            var docId = new ObjectId(id);
-            mongoCollection.DeleteOne(m => m.Id == docId);
+            var document = new ObjectId(id);
+            mongoCollection.DeleteOne(m => m.Id == document);
         }
     }
 }

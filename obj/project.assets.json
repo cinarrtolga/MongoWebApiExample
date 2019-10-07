@@ -6091,11 +6091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tolgac\\Desktop\\MongoExample\\MongoExample.csproj",
+      "projectUniqueName": "C:\\Projects\\MongoWebApiExample\\MongoExample.csproj",
       "projectName": "MongoExample",
-      "projectPath": "C:\\Users\\Tolgac\\Desktop\\MongoExample\\MongoExample.csproj",
+      "projectPath": "C:\\Projects\\MongoWebApiExample\\MongoExample.csproj",
       "packagesPath": "C:\\Users\\Tolgac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tolgac\\Desktop\\MongoExample\\obj\\",
+      "outputPath": "C:\\Projects\\MongoWebApiExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

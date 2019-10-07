@@ -15,7 +15,7 @@ namespace MongoExample.Controllers
         }
 
         [HttpPost, Route("AddModel")]
-        public ActionResult AddModel(CarModel model)
+        public ActionResult AddModel([FromBody]CarModel model)
         {
             return Ok(_carRepository.Create(model));
         }

@@ -1,2 +1,2 @@
 # MongoWebApiExample
-Sample for the MongoDB via Dotnet Core
+Sample for the MongoDB via Dotnet Core.
